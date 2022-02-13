@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/author-ekadharmaa-green)](https://github.com/ekadharmaa/)
 
 
-#### [See it Live](https://github.com/ekadharmaa.github.io/happyvalday/)
+#### [See it Live](https://ekadharmaa.github.io/happyvalday/)
 
 ## Make your own version :computer:
 
